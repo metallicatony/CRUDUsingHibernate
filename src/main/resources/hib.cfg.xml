@@ -6,8 +6,8 @@
  <session-factory>
   <property name="hibernate.connection.driver_class">oracle.jdbc.driver.OracleDriver</property>
   <property name="hibernate.connection.url">jdbc:oracle:thin:@127.0.0.1:1521:XE</property>
-  <property name="hibernate.connection.username">metallicatony</property>
-  <property name="hibernate.connection.password">dexter</property>
+  <property name="hibernate.connection.username">XXX</property>
+  <property name="hibernate.connection.password">XXX</property>
   <property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
   <property name="hibernate.default_schema">METALLICATONY</property>
   <property name="show_sql">true</property>
